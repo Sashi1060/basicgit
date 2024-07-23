@@ -1,0 +1,4 @@
+C:\Users\CDU > mkdir folder
+step 2:
+C:\Users\CDU > cd folder
+C:\Users\CDU\folder2 > code .
